@@ -10,7 +10,10 @@
  .PARAMETER Server
 
  Specify the domain controller to search for.
- Default's to the users current domain
+ 
+ .PARAMETER Verbose
+
+ Verbose Information
 
  This script is based on information shared in the blog below.
  Reference: https://www.blackhillsinfosec.com/domain-goodness-learned-love-ad-explorer/
